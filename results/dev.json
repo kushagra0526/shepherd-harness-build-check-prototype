@@ -1,0 +1,125 @@
+{
+ "planted": 434,
+ "clean_harnesses": 50,
+ "res": {
+  "check": {
+   "found": 434,
+   "false": 0,
+   "clean_flagged": 0
+  },
+  "continuity": {
+   "found": 196,
+   "false": 0,
+   "clean_flagged": 0
+  },
+  "count": {
+   "found": 0,
+   "false": 0,
+   "clean_flagged": 0
+  }
+ },
+ "per": {
+  "check": {
+   "WRONG_CAVITY": [
+    47,
+    47
+   ],
+   "SWAPPED_PAIR": [
+    108,
+    108
+   ],
+   "MISSING": [
+    36,
+    36
+   ],
+   "WRONG_TERMINAL": [
+    58,
+    58
+   ],
+   "WRONG_COLOR": [
+    44,
+    44
+   ],
+   "LENGTH": [
+    53,
+    53
+   ],
+   "PARTIAL_SEAT": [
+    40,
+    40
+   ],
+   "WEAK_CRIMP": [
+    48,
+    48
+   ]
+  },
+  "continuity": {
+   "WRONG_CAVITY": [
+    47,
+    47
+   ],
+   "SWAPPED_PAIR": [
+    108,
+    108
+   ],
+   "MISSING": [
+    36,
+    36
+   ],
+   "WRONG_TERMINAL": [
+    0,
+    58
+   ],
+   "WRONG_COLOR": [
+    0,
+    44
+   ],
+   "LENGTH": [
+    0,
+    53
+   ],
+   "PARTIAL_SEAT": [
+    5,
+    40
+   ],
+   "WEAK_CRIMP": [
+    0,
+    48
+   ]
+  },
+  "count": {
+   "WRONG_CAVITY": [
+    0,
+    47
+   ],
+   "SWAPPED_PAIR": [
+    0,
+    108
+   ],
+   "MISSING": [
+    0,
+    36
+   ],
+   "WRONG_TERMINAL": [
+    0,
+    58
+   ],
+   "WRONG_COLOR": [
+    0,
+    44
+   ],
+   "LENGTH": [
+    0,
+    53
+   ],
+   "PARTIAL_SEAT": [
+    0,
+    40
+   ],
+   "WEAK_CRIMP": [
+    0,
+    48
+   ]
+  }
+ }
+}
